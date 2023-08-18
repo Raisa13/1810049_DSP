@@ -9,6 +9,6 @@ Unlike a continuous-time signal, a discrete-time signal is not a function of a c
 however, it may have been obtained by sampling from a continuous-time signal.
 The convolution of two signals in the time domain is equivalent to the multiplication of their
 representation in frequency domain.
-                                 # y(n)=x(n)∗h(n)
+                                 ### y(n)=x(n)∗h(n)
 Mathematically, we can write the convolution of two signals as-
-                            ## 𝑦(𝑛) = ∑ x(k) ∗ h(n − k)
+                              ### 𝑦(𝑛) = ∑ x(k) ∗ h(n − k)
